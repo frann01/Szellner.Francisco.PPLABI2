@@ -1,0 +1,89 @@
+# depslib dependency file v1.0
+1621993564 source:c:\users\usuario\desktop\veterinariaszellner\color.c
+	"color.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1622035425 source:c:\users\usuario\desktop\veterinariaszellner\main.c
+	<stdio.h>
+	<stdlib.h>
+	"tipo.h"
+	"informes.h"
+	"color.h"
+	"servicio.h"
+	"mascota.h"
+	"trabajo.h"
+	"validacion.h"
+
+1621992967 source:c:\users\usuario\desktop\veterinariaszellner\mascota.c
+	"mascota.h"
+	"validacion.h"
+	"tipo.h"
+	"data.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+
+1621993470 source:c:\users\usuario\desktop\veterinariaszellner\tipo.c
+	"tipo.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1621993240 source:c:\users\usuario\desktop\veterinariaszellner\trabajo.c
+	"trabajo.h"
+	"mascota.h"
+	"servicio.h"
+	<stdio.h>
+	<stdlib.h>
+
+1621993240 source:c:\users\usuario\desktop\veterinariaszellner\servicio.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"servicio.h"
+
+1621882021 c:\users\usuario\desktop\veterinariaszellner\servicio.h
+
+1621426232 source:c:\users\usuario\desktop\veterinariaszellner\fecha.c
+
+1621777840 c:\users\usuario\desktop\veterinariaszellner\tipo.h
+
+1621777840 c:\users\usuario\desktop\veterinariaszellner\color.h
+
+1621779253 c:\users\usuario\desktop\veterinariaszellner\mascota.h
+	"color.h"
+	"tipo.h"
+
+1622033591 c:\users\usuario\desktop\veterinariaszellner\trabajo.h
+	"fecha.h"
+	"mascota.h"
+	"servicio.h"
+
+1621426234 c:\users\usuario\desktop\veterinariaszellner\fecha.h
+
+1621434581 source:c:\users\usuario\desktop\veterinariaszellner\validacion.c
+	"validacion.h"
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+
+1621428395 c:\users\usuario\desktop\veterinariaszellner\validacion.h
+
+1621779327 c:\users\usuario\desktop\veterinariaszellner\data.h
+	"fecha.h"
+
+1622036675 source:c:\users\usuario\desktop\veterinariaszellner\informes.c
+	"informes.h"
+	"mascota.h"
+	"trabajo.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1622035991 c:\users\usuario\desktop\veterinariaszellner\informes.h
+	"mascota.h"
+	"trabajo.h"
+
